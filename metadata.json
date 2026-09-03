@@ -1,0 +1,6 @@
+{
+  "name": "ElementX",
+  "description": "Explore the building blocks of matter with an interactive periodic table, element details, comparisons, and chemistry quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
